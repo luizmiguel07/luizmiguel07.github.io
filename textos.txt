@@ -1,0 +1,26 @@
+Notícia 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at est 
+turpis. Curabitur rutrum sollicitudin sapien, id semper mauris facilisis vitae. 
+Donec ut justo laoreet, pellentesque nunc vitae, elementum risus. 
+Fusce ac viverra erat. Aliquam vel mattis turpis. Pellentesque at urna magna. 
+Vivamus eleifend est arcu, eu rutrum dolor auctor vel. Sed lobortis arcu non 
+erat sagittis, id malesuada sem lacinia. Integer vulputate, enim non euismod 
+tristique, nisl lacus malesuada sem, id efficitur mauris purus pharetra orci. 
+Aenean pulvinar tristique tortor nec luctus. Curabitur facilisis nec urna in 
+eleifend.
+
+
+Notícia 2
+Etiam nec purus enim. Ut ultrices euismod ex ut tempor. Ut condimentum sem felis, 
+eget molestie ipsum hendrerit vel. Nulla consectetur tincidunt velit. Nam elementum 
+maximus diam id fringilla. Cras interdum, nunc nec tempor blandit, nunc nisi gravida 
+dui, at dignissim diam lacus sit amet sapien. In hac habitasse platea dictumst.
+
+
+Notícia 3
+Maecenas consequat mi ut est tristique tristique. Integer eget malesuada dolor. 
+Quisque sodales cursus velit ut dictum. Aliquam finibus convallis libero sed consectetur. 
+Pellentesque mollis, eros at rutrum tempus, turpis nisl dapibus dui, eget gravida arcu 
+turpis eu enim. Ut in nisl non lorem volutpat volutpat. Cras tellus purus, tincidunt 
+finibus varius id, pellentesque et enim.
+

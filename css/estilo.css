@@ -1,0 +1,174 @@
+<style type="text/css">
+/*:after,
+*:before {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 10px;
+	padding: 10px;
+	font-size: 1em;
+}*/
+
+
+header {
+	background: #f0f0f0;
+}
+
+body{
+font-size: 16px;
+font-family: "trebuchet MS",Helvetica,sans-serif;
+background:#f3f3f4;
+padding-left: auto;
+padding-right: auto;
+}
+
+
+#navegacao{
+background: #F3f3f4;
+border-bottom: 45px solid:#d8d8d8;
+display:block;
+
+}
+
+#area {
+	width: 720px;
+	margin:0px auto;
+}/*margin: 0px auto;*/
+
+#area-principal{
+	width: 100%;
+	margin: 0;
+}
+/*	width: 720px;
+	margin: 10px auto 10px auto;
+*/
+.vermelho{
+	color: #FF0303;
+}
+
+#menu{
+float:none;
+padding: 10px auto 10px auto;
+margin-top: auto 10px auto 10px;
+}
+/*
+float: right;
+padding: 10px 1px 10px 0px;
+*/
+#logo{
+	float:left;
+	margin: 0 15px auto 1em;
+}
+
+a {
+	text-decoration:overline;
+	padding: 0px;
+}
+/*links não visitados*/
+a:link{
+	color: #838383;
+}
+/*links visitados*/
+a:visited{
+	color: #838383;
+}
+/*links hover*/
+a:hover{
+	color: #fff;
+	background: #FF0303;
+}
+
+a:active{
+	color: #535353;
+}
+
+#postagem{
+	background: #fff;
+	padding: 30px;
+	margin: 3em 0 0 0;
+	width: 100%;
+
+}
+/*
+margin-bottom: 10px;
+
+*/
+.data-postagem{
+	font-size: 14px;
+	border-bottom: 1px solid #f4f4f4;
+	display: block;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+
+.imagem-noticia{
+	width: 100%;
+}
+
+
+.img-postagem{
+	float:left;
+	margin: 0px 10px 5px 0px;
+	align-items: center;
+
+}
+
+.postado-por{
+	border-left: 5px solid #d8d8d8;
+	padding-left: 5px;
+	display: block;
+	margin-top: 10px;
+}
+
+#titulo1{
+	color:#FF0303 ;
+	left: 10em;
+}
+
+/* busca */
+.busca {
+	overflow:hidden; /* clearfix */
+	float: right;
+	padding-top: auto auto auto auto;
+
+}
+	.busca input {
+		border: 1px solid #CCC;
+		border-bottom-color: #aaa;
+		border-right-width: 0px;
+		border-radius: 15px 0 0 15px;
+		box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
+		color: #555;
+		height: 1.7em;
+		padding: 0 0.16em;
+
+		float:left;
+		-webkit-appearance: none;
+	}
+	.busca button {
+		background: #f0f0f0;
+		background: linear-gradient(white, white 50%, #eee);
+
+		border: 1px solid #CCC;
+		border-bottom-color: #aaa;
+		border-radius: 0 5px 5px 0;
+		color: #777;
+		font-size: 40%;
+
+		line-height: 1.667em;
+		height: 1.888888889em;
+		padding: 0 0.5em;
+		text-align: center;
+		text-transform: lowercase;
+
+		float: left;
+	}
+		.busca button:hover {
+			color: #0669de;
+		}
+		.container{
+		    margin: 0 auto;
+		    max-width: 1200px;
+		}
+
+</style>
